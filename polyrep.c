@@ -41,9 +41,10 @@ void main()
 	        	temp->link=NULL;
         		ptr->link=temp;
         		ptr=ptr->link;
-        		printf("1. Add more elements\n2. Continue\nEnter choice: ");
-        		scanf("%d",&cho);
-		}    	
+		}	
+        	printf("1. Add more elements\n2. Continue\nEnter choice: ");
+        	scanf("%d",&cho);
+		    	
 	}
     	while(cho==1);
     	printf("1. Display polynomial\n2. Exit\nEnter choice: ");
