@@ -1,5 +1,4 @@
 							//program name=Doubly_LL.c
-							//pgm number 11,14a
 						        //Haridev s
 
 
