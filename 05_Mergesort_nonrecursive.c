@@ -1,3 +1,5 @@
+        //Haridev S
+        //Roll no 25
 #include<stdio.h>
 #define max 30
 int main()
