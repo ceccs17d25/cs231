@@ -1,3 +1,5 @@
+        //Haridev S
+        //Roll no 25
 #include <stdio.h>
 
 int queue[100], n=100, front=-1, rear=-1;
