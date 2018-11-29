@@ -62,3 +62,8 @@ int main () {
     printf("%c", stack[top--]);
   }
 }
+OUTPUT:
+    Enter the infix form: ((A+B)*(A-B))
+    AB+AB-*
+
+
