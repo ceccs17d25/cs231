@@ -53,6 +53,16 @@ int main()
 	
 	return 0;
 }
+OUTPUT:
+	enter the number of elements:4
+	enter the elements 
+	7
+	1
+	4
+	2
+	Sorted list is :
+	1 2 4 7
+
         
 		
 			
