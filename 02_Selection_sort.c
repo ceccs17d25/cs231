@@ -30,3 +30,16 @@ int main()
       printf("%d\n",array[i]);
  return 0;
 }
+	OUTPUT
+Enter number of elements
+4
+Enter 4 integers
+6
+5
+7
+4
+Sorted list in ascending order:
+4
+5
+6
+7
