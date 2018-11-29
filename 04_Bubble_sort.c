@@ -1,3 +1,4 @@
+        //04_Bubble_sort
         //Haridev S
         //Roll no 25
 #include <stdio.h>
@@ -26,3 +27,15 @@ int main()
      printf("%d\n",array[i]);
  return 0;
 }
+        OUTPUT
+Enter number of elements
+3
+Enter 3 integers
+3
+2 
+1
+Sorted list in ascending order:
+1
+2
+3
+
