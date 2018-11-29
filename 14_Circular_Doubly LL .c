@@ -168,3 +168,85 @@ void main()
         }
     }while(cho==1 || cho==2 || cho==3 || cho==4 || cho==5 || cho==6);
 }
+OUTPUT:
+
+	CHOOSE
+	1.Insertion(begining)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:1
+	Enter data: 1
+
+	CHOOSE
+	1.Insertion(begining)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:2
+	Enter data: 3
+
+	CHOOSE
+	1.Insertion(begining)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:6
+	1    3    
+	CHOOSE
+	1.Insertion(begining)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:3
+	Enter key: 1
+	Enter data: 2
+
+	CHOOSE
+	1.Insertion(begining)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:6
+	1    2    3    
+	CHOOSE
+	1.Insertion(begining)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:4
+	Enter key: 3
+
+	CHOOSE
+	1.Insertion(begining)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:6
+	1    2    
+	CHOOSE
+	1.Insertion(begining)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:5
+	Enter key: 2
+
+	Element found at 2
+
