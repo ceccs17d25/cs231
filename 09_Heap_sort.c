@@ -52,4 +52,21 @@ void main()
 			printf("%d \n  ",heap[i]);
 		printf("\n");
 }
+			OUTPUT
+Enter the no.of elements : 4
+
+Enter the elements : 5
+6
+2
+9
+Heap array : 9 
+6 
+2 
+5 
+
+The sorted array is :2 
+  5 
+  6 
+  9 
+  
 
