@@ -79,6 +79,49 @@ int main()
 	} 
 	while (ans != '4');
 }
+		OUTPUT
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 1
+Enter data to be pushed : 2
+
+
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 3
+
+
+Stack contents
+2
+
+
+
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 2
+Popped element is 2
+
+
+	Stack Using array
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice : 3
+
+
+Stack contents
+Empty stack
+
 			
 
 
