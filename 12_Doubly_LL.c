@@ -1,4 +1,4 @@
-							//program name=Doubly_LL.c
+							//program name=Doubly_LL.c 12,14B
 						        //Haridev s
 
 
@@ -169,3 +169,143 @@ void main()
         }
     }while(cho==1 || cho==2 || cho==3 || cho==4 || cho==5 || cho==6);
 }
+OUTPUT:
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:1
+	Enter data: 1
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:2
+	Enter data: 2
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	1 -> 2 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:3
+	Enter key: 3 1
+	Enter data: 3
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	1 -> 3 -> 2 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:4
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	3 -> 2 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:5
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	3 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:6
+	Enter key: 3
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:7
+	Empty list!!!
+
