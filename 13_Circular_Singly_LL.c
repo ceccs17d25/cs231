@@ -1,4 +1,4 @@
-                                                               //program name=13.Circular_Singly_LL.c
+                                                               //program name=13,14C.Circular_Singly_LL.c
 							       //Haridev s
 
 
@@ -122,4 +122,75 @@ void main()
         	}
     }while(cho==1 || cho==2 || cho==3 || cho==4 || cho==5);
 }
+OUTPUT:
+
+	CHOOSE
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:1
+	Enter data: 5
+
+	CHOOSE
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:2
+	Enter data: 6
+
+	CHOOSE
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:3
+	Enter key: 5
+	Enter data: 7
+
+	CHOOSE
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:4
+	Enter key: 7
+
+	CHOOSE
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:5
+	Enter key: 6
+
+	Element found at 2
+	CHOOSE
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:6
+	5   6   
+	CHOOSE
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion
+	5.Search
+	6.Display
+	Enter choice:9
 
