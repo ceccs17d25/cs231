@@ -35,4 +35,6 @@ void main()
 	}
 	
 }
-		
+OUTPUT:
+	Enter arithmatic expression : (A+B)/(A*B)
+	Entered experssion : (A+B)/(A*B)		
