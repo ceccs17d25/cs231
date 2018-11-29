@@ -2,7 +2,8 @@
 #define size 10
 int queue[size], front, rear;
 
-void enqueue() {
+void enqueue() 
+{
 	int data;
   if ((front == rear+1) || (front==0 && rear == size-1)) {
     printf("Queue overflow\n");
@@ -71,3 +72,42 @@ int main() {
 		}
 	} while(choice != '4');
 }
+		OUTPUT
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 2
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 5
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+2:5:-:-:-:-:-:-:-:-:
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 2
+
+	Queue using array
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+-:5:-:-:-:-:-:-:-:-:
+
