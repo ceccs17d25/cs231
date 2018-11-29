@@ -33,3 +33,11 @@ void main()
 	}
 
 }
+		OUTPUT
+Enter size of array: 4
+Enter 4 elements in arry: 
+4
+3
+2
+1
+After Sorting elements: 1  2  3  4 
