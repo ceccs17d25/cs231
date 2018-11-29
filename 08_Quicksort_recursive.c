@@ -64,3 +64,14 @@ void quicksort(int list[], int low, int high)
     }
 
 }
+	OUTPUT:
+	Enter the size
+	4
+	Enter the elements
+	1
+	6
+	2
+	4
+	Sorted array
+	1 2 4 6
+
