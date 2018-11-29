@@ -31,3 +31,12 @@ int main()
       printf("Not found! %d isn't present in the list.\n", search);
  return 0;   
 }
+	OUTPUT:
+	Enter the number of elements 4
+	Enter integers:1 
+	3
+	5
+	7
+	Enter value to find:5
+	found at location 3 
+
