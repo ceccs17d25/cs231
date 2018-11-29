@@ -82,4 +82,46 @@ int main()
 		}
 	} while(cho !=4);
 }
+			OUTPUT
+	Queue using array
+1.Enqueu
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 2
+
+	Queue using array
+1.Enqueu
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 7
+
+	Queue using array
+1.Enqueu
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+2
+7
+
+	Queue using array
+1.Enqueu
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 2
+Deleted element : 2
+
+	Queue using array
+1.Enqueu
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+7
+
 
