@@ -87,3 +87,6 @@ int main() {
   }
   printf("Final result : %d\n", operandStack[0]);
 }
+          OUTPUT
+ Enter the infix expression : (1+3)/2
+        Final result : 2
