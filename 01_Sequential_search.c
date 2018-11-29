@@ -25,3 +25,16 @@ int main()
     printf("%d isn't present in the array.\n", search);
   return 0;
 }
+		OUTPUT
+Enter the number of elements in array
+5
+Enter 5 integer
+3
+2
+7
+4
+8
+Enter a number to search
+7
+7 is present at location 3.
+
